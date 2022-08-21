@@ -33,6 +33,8 @@
 
    <h1> Thankyou, Happy Learning </h1>
   
-  <h1> Please improve ypur knwoledge </h1>
-  
+  <h1> Please improve your knwoledge </h1>
+ 
+  <h1> please update  your skills </h1>
+ 
 </form>
