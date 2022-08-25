@@ -35,6 +35,6 @@
   
   <h1> Please improve your knwoledge </h1>
  
-  <h1> please update  your skills </h1>
+  <h1> Please keep pin drop silence in the class </h1>
  
 </form>
